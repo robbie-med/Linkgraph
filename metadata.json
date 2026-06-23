@@ -1,0 +1,6 @@
+{
+  "name": "LinkGraph",
+  "description": "A local-first, encrypted, temporal relationship graph of identities, communications, and observer reachability for compartment risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
